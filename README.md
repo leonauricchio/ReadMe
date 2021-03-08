@@ -6,4 +6,5 @@ Il progetto consiste nel creare una base musicale utilizzando un software online
 Soundtrap è un software online di proprietà di Spotify con cui è possibile creare melodie e ritmi utilizzando i numerosi strumenti dati in dotazione con la versione gratuita. Il sito è strutturato in righe e per ogni riga c'è una melodia. Mentre il tempo scorre vengono riprodotte le melodie di tutte righe, a formare la base completa.
 ![](https://github.com/leonauricchio/ReadMe/blob/ced92b4121fb0e9e2d4d0753621f32fb291d8380/Cattura.JPG)
 ##### Link e riferimenti:
-La voce di Pop Smoke: (https://www.youtube.com/watch?v=AFxIm9s0r84)                   Copyright (C) [2021][Auricchio Leonardo]
+La voce di Pop Smoke: (https://www.youtube.com/watch?v=AFxIm9s0r84)
+\Copyright (C) [2021][Auricchio Leonardo]
